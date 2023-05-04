@@ -76,6 +76,7 @@ body{
 #calculator{
     flex-basis: 515px;
     /*margin: 90px 0;*/
+    scale: 0.8;
 }
 #head{
     display: flex;
